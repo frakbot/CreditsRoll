@@ -6,7 +6,7 @@ CreditsRoll
 The **CreditsRoll** library allows you to have **Star Wars-like credits rolls** in your app. It's compatible with
 _all_ API levels. Yes, this is API 1+!
 
-[Demo image](img/scroll.gif)
+![Demo image](img/scroll.gif)
 
 ### Why?
 
